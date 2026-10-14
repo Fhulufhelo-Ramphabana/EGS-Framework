@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn==1.6.1
+xgboost==3.4.1
+shap==0.52.0
+lime==0.2.0.1
+dice-ml==0.12
+scipy
+matplotlib
+jupyter
+openpyxl
